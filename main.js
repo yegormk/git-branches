@@ -1,1 +1,0 @@
-const main_variable = true;
